@@ -8,7 +8,8 @@
 4. TC-004 = User melakukan perhitungan faktorial dengan mengisi input berupa karakter khusus (. , * & dll)
 5. TC-005 = User melakukan perhitungan faktorial dengan inputan kosong
 
-## Manual Testing : https://docs.google.com/spreadsheets/d/1IzbOpCQR-VcHsBf_X7xj3Co9_Jzx2OC8/edit#gid=52772630
+## Manual Testing :
+https://docs.google.com/spreadsheets/d/1IzbOpCQR-VcHsBf_X7xj3Co9_Jzx2OC8/edit#gid=52772630
 
 ## Note :
 - Terdapat bug berupa tidak bisa menampilkan hasil ketika inputannya diatas 170
